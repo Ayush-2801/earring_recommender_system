@@ -1,0 +1,11 @@
+dlib==19.24.2
+flask
+shutil
+rembg
+tensorflow
+scikit-learn
+opencv-python
+matplotlib
+pickle
+imutils
+pillow
